@@ -1,0 +1,113 @@
+[{"medic":{
+   "Name":"Atenolol",
+   " Id":100,
+   "Quantity":40,
+   "Expire Date":"3 Sep 2022",
+   "Place":"10 B",
+   "Price":"52.5",
+   "Type":"Headache",
+   "Manifac":" Medtronic plc"
+
+}},
+{"medic":{   
+    "Name":"Enalapril",
+    "Id":101,
+    "Quantity":50,
+    "Expire Date":"3 August 2022",
+    "Place":"11 C",
+    "Price":"44",
+   "Type":"Contraception",
+   "Manifac":"Johnson & Johnson"
+}},
+{"medic":{   
+    "Name":"Digoxin",
+    "Id":102,
+    "Quantity":20,
+    "Expire Date":"16 September 2020",
+    "Place":"12 D",
+    "Price":"100",
+    "Type":"blood pressure",
+    "Manifac":"Stryker"
+}},
+{"medic":{ 
+     "Name":"Glipizide",
+    "Id":103,
+    "Quantity":60,
+    "Expire Date":"12 January 2022",
+    "Place":"10 A",
+    "Price":"60",
+    "Type":"heart disease",
+    "Manifac":"Cardinal Health"
+}},
+{"medic":{  
+    "Name":"Glimepiride ",
+    "Id":104,
+    "Quantity":100,
+    "Expire Date":"22 March 2023",
+    "Place":"1 A",
+    "Price":"32",
+    "Type":"headache",
+    "Manifac":"Siemens Healthineers"
+}},
+{"medic":{
+    "Name":"Invokana ",
+    "Id":105,
+    "Quantity":90,
+    "Expire Date":"22 April 2022",
+    "Place":"2 D",
+    "Price":"40",
+    "Type":"epilepsy",
+    "Manifac":"Becton Dickinson & Company"
+}},
+{"medic": {
+    "Name":"Januvia ",
+    "Id":106,
+    "Quantity":50,
+    "Expire Date":"24 May 2024",
+    "Place":"20 A",
+    "Price":"56",
+    "Type":"Depression",
+    "Manifac":"GE Healthcare "
+}},
+{"medic": {    
+    "Name":"naproxen ",
+    "Id":107,
+    "Quantity":10,
+    "Expire Date":"2 November 2021",
+    "Place":"13 C",
+    "Price":"78",
+    "Type":"Liver diseases",
+    "Manifac":" Fresenius Medical Care"
+}},
+{"medic":{    
+    "Name":"aspirin ",
+    "Id":108, 
+    "Quantity":70,
+    "Expire Date":"25 December  2023",
+    "Place":"15 D",
+    "Price":"40",
+    "Type":"heart disease",
+    "Manifac":"Abbott"
+}},
+{"medic":  {    
+    "Name":"acetaminophen ",
+    "Id":109,
+    "Quantity":15,
+    "Expire Date":"1 June  2022",
+    "Place":"7 C",
+    "Price":"13",
+    "Type":" constipation",
+    "Manifac":"Medtronic"
+}}
+,
+{"medic": {    
+    "Name":"methysergide ",
+    "Id":110,
+    "Quantity":36,
+    "Expire Date":"25 September  2025",
+    "Place":"8 A",
+    "Price":"33.5",
+    "Type":"analgesic",
+    "Manifac":"Veda "
+}}
+]
